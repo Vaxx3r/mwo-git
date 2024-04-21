@@ -8,3 +8,8 @@ public class SomeProgram {
 public void managerocket() {
     // TODO implement
    }
+
+public void manageTheSatellite() {
+ // TODO implement
+}
+
