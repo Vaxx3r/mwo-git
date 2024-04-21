@@ -4,3 +4,7 @@ public class SomeProgram {
         System.out.println("We are learning to use Git.");
  }
 }
+
+public void managerocket() {
+    // TODO implement
+   }
